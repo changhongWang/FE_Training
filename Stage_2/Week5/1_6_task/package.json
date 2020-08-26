@@ -1,0 +1,16 @@
+{
+  "name": "1_6_task",
+  "version": "1.0.0",
+  "description": "imooc koa课程 作业",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "changhong.wang",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-router": "^9.4.0"
+  }
+}
